@@ -17,12 +17,15 @@ Hvis man kan vide alle faktorer i roulettespillet, og dermed forudsige udfaldet,
 Dette spørgsmål var netop hvad, der i 1814 fik Pierre-Simon Laplace til at beskrive sin dæmon. Laplaces dæmon er en imaginær intelligens, som er i stand til at vide alle universets både store og små legemers positioner og hastigheder. Fordi dæmonen kender til alle informationerne om legemernes postioner og hastigheder, kan dæmonen derved forudsige hvor legemerne kommer til at være i fremtiden såvel som hvor de har været i fortiden uden nogle tidsbegrænsninger. Hvis vi lader vores hjerners partikler være inkluderet i denne mængde af legemer, lader det til, at menneskets tilsyneladende frie vilje er en illusion. Men så kommer spørgsmålet: er det muligt for sådan en imaginær intelligens at eksistere? Kan positionerne og hastighederne af alle universets legemer vides?
 
 # 1. Kvantemekanikken og Heisenbergs usikkerhedsprincip ("Gud kaster ikke med terninger" - Einstein)
-Svaret er nej. Man kan kun måle den ene af de to informationer på bekostning af den anden, grundet det vi kalder observatøreffekten. observatøreffekten drejer sig om at for at kunne måle en af informationerne af en partikel ændrer man på den anden information i selve observatørakten i form af feks det udstyr der skal til at måle den. Den berømte tyske teoretiske fysiker Werner Heisenberg forklarede i 1927, at hvis man er sikker på en partikels position, er det umuligt samtidigt at være sikker på dens hastighed og vice versa. Han forklarede faktisk, at man kun kan vide sandsynligheden for partiklens position eller hastighed, før man observerer den. 
+Svaret er nej. Man kan kun måle den ene af de to informationer på bekostning af den anden, grundet observatøreffekten. Observatøreffekten
+drejer sig om at for at kunne måle en af informationerne af en partikel ændrer man på den anden information i selve observationen i form af
+feks det udstyr der skal til for at måle den. Den berømte tyske teoretiske fysiker Werner Heisenberg forklarede i 1927, at hvis man er sikker på en partikels position, er det umuligt samtidigt at være sikker på dens hastighed og vice versa. Han forklarede faktisk, at man kun kan vide *sandsynligheden* for partiklens position eller hastighed, før man observerer den. Eftersom at partikler er universets mindste byggesten, og at de samtidig er overladt til tilfældigheder, betyder det så at vores verden, som vi kender den, er tilfældig? 
+
+i praksis findes der ingen tilfældigheder men i teorien er alt tilfældigt,  
 
 # Hvilken betydning har Heisenbergs usikkerhedsprincip for vores makroverden?
+## Kaosteori (Sommerfugleeffekten) fraktaler
+Ja, det er sandt, at partiklerne, som vores verden er bygget af, er tilfældige i deres position og hastighed. Man kan herfra forestille sig en sommerfugleeffekt, som bliver igangsat af en partikels *tilfældige* ændring i sin position eller hastighed, som breder sig ud til vores makroverden (den vi kan se og føle). Vi ved, at en sommerfugls vingeslag kan sætte gang i en orkan på den anden side af jorden i og med, at den igangsætter en kædereaktion, som skalerer op til en orkan. Akkurat ligesom et sæt dominobrikker, hvor man efter at den sidste og største dominobrik er væltet, kan konkludere at det var den første og mindste brik der forsagede det hele. Men hvis dette var sandt for partikler, ville vi så ikke lægge mærke til tilsyneladende uforklarlige fænomener i vores makroverden? Jo, *hvis* det var sandt; det er det ikke. Kvantepartikler er selvhelende i deres natur. Dette forhindrer en sommerfulgeeffekt i at udvikle sig.
 
 # Betyder tilfældighed, at vi har fri vilje? hvorfor skal universets determinisme bøje sig for mennesker
-
-# Kaos-teori (Sommerfugleeffekten) (måske)
-
 # Sorte huller og tab af information
